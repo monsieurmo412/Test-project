@@ -1,4 +1,0 @@
-package AndroidTest
-
-class HomeFragmentTest {
-}
